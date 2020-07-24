@@ -5,7 +5,10 @@
   "main": "index.js",
   "scripts": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "dev": "webpack-dev-server",
+=======
+>>>>>>> e1672f1b65fd7ba3164e88c6c690c8350e36cf7e
 =======
 >>>>>>> e1672f1b65fd7ba3164e88c6c690c8350e36cf7e
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +16,11 @@
   "repository": {
     "type": "git",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "url": "git+https://github.com/LearnWebCode/travel-site-files.git"
+=======
+    "url": "git+https://github.com/Moses619/travel-website.git"
+>>>>>>> e1672f1b65fd7ba3164e88c6c690c8350e36cf7e
 =======
     "url": "git+https://github.com/Moses619/travel-website.git"
 >>>>>>> e1672f1b65fd7ba3164e88c6c690c8350e36cf7e
@@ -22,6 +29,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
+<<<<<<< HEAD
 <<<<<<< HEAD
     "url": "https://github.com/LearnWebCode/travel-site-files/issues"
   },
@@ -43,12 +51,17 @@
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0"
 =======
+=======
+>>>>>>> e1672f1b65fd7ba3164e88c6c690c8350e36cf7e
     "url": "https://github.com/Moses619/travel-website/issues"
   },
   "homepage": "https://github.com/Moses619/travel-website#readme",
   "dependencies": {
     "lodash": "^4.17.19",
     "normalize.css": "^8.0.1"
+<<<<<<< HEAD
+>>>>>>> e1672f1b65fd7ba3164e88c6c690c8350e36cf7e
+=======
 >>>>>>> e1672f1b65fd7ba3164e88c6c690c8350e36cf7e
   }
 }
